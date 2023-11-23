@@ -1,0 +1,1 @@
+To jest zadanie w ramach przedmiotu Metodyki wytwarzania oprogramowania.
